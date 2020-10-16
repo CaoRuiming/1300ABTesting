@@ -53,20 +53,13 @@ header {
 	color: #DF0000;
 }
 
-/* #page-b .vendor-wrapper {
-  display: flex;
-}
-#page-b .vendor-wrapper {
-  display: flex;
-}
 #page-b .vendor-wrapper button {
-  height: 34px;
-} */
-#page-b .vendor-wrapper button {
-  margin-top: -200px;
+  margin-top: 0;
+  vertical-align: middle;
 }
-#page-b .vendor-wrapper span.num-in-cart {
+#page-b .vendor-wrapper .add-to-cart-wrapper {
   display: inline-block;
+  vertical-align: middle;
   margin-top: -200px;
 }
 #page-b div.vendor-photo {
